@@ -14,8 +14,7 @@ pip install pillow
 python ImageAboveAll.py
 
 <h1>Manual</h1>
-1- launch the PY
-On CMD or PowerShell we can launch the py
+1- On CMD or PowerShell we can launch the py
 <img width="1756" height="967" alt="1-launch" src="https://github.com/user-attachments/assets/fe17f589-9e2e-4971-9db0-ed0ec14fc2f3" />
 
 2- At first time, we select the image
