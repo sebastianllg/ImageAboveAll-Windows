@@ -10,7 +10,7 @@ Download & Install python form python.org
 <h3>Library Pillow</h3>
 pip install pillow
 
-<h3>Run PY</h3>h3>
+<h3>Run PY</h3>
 python ImageAboveAll.py
 
 <h1>Manual</h1>
