@@ -1,5 +1,9 @@
 <h1>Only in Microsoft Windows</h1>
 
+<h1>Executable Application</h1>
+Here's an executable application. You just need to run ImageAboveAll.exe.
+
+<h1>Run the application with Python</h1>
 <h3>Requirements:</h3>
 - Python 3.8+
 - Pillow (pip install pillow)
